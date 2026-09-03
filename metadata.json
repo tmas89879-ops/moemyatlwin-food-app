@@ -1,0 +1,7 @@
+{
+  "name": "TasteGuide",
+  "description": "Food recipe and restaurant recommendation app with Myanmar traditional, fast food, and desserts, step-by-step cooking instructions, and AI pantry recipe assistant.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
